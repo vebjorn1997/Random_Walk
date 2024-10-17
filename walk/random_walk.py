@@ -85,7 +85,7 @@ def main():
     plot_walk(chuck_the_chicken)
     plot_walk(daisy_the_dog)
     plot_walk(chester_the_cat)
-
+    print(chuck_the_chicken["positions"])
 
 if __name__ == "__main__":
     main()
